@@ -1,0 +1,16 @@
+﻿{
+  "supports": {},
+  "dependencies": {
+    "Microsoft.NETCore.Portable.Compatibility": "1.0.2",
+    "NETStandard.Library": "1.6.1",
+    "Newtonsoft.Json": "9.0.1",
+    "Plugin.BingSpeech": "1.0.3",
+    "Plugin.NetStandardStorage": "1.0.5",
+    "Xamarin.Forms": "2.3.4.224"
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "imports": "portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20"
+    }
+  }
+}
